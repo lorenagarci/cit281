@@ -1,0 +1,6 @@
+total 912
+-rw-r--r--@ 1 lorenagarcia  staff  454013 Apr  7 13:47 lab-01-folders.png
+-rw-r--r--@ 1 lorenagarcia  staff       0 Apr 13 08:34 lab-01-folders.txt
+-rw-r--r--@ 1 lorenagarcia  staff     206 Apr 13 08:32 lab-01-node.js
+-rw-r--r--@ 1 lorenagarcia  staff    1171 Apr 13 08:28 lab-01.shortcuts.txt
+-rw-r--r--@ 1 lorenagarcia  staff     369 Apr 13 08:31 settings.json

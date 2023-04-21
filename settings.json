@@ -1,0 +1,12 @@
+{
+    "workbench.startupEditor": "none",
+    "cmake.configureOnOpen": true,
+    "cmake.configureSettings": {
+    },
+    "workbench.editorAssociations": {
+        "*.mwb": "default"
+},
+"editor.unicodeHighlight.invisibleCharacters": false,
+"editor.unicodeHighlight.ambiguousCharacters": false,
+"[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode" }}
