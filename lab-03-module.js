@@ -9,7 +9,9 @@ const concatenateString = (string_1, string_2) => {
 }
 
 //part 11
-module.exports = {
+module.exports = { 
+    reverseString,
+    concatenateString,
     //part 10
     concatenateString: function(string_1, string_2){
         return string_1 + string_2;
